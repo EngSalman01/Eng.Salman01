@@ -8,8 +8,6 @@
 
 - 🔭 I'm currently building **LogiTruck** - A Full-Stack Real-Time Logistics Platform
 - 🌱 I'm deepening my knowledge in **Advanced Next.js, TypeScript, and AI/ML frameworks**
-- 👯 I'm looking to collaborate on **innovative AI projects and scalable web applications**
-- 🤔 I'm looking for help with **system architecture and performance optimization**
 - 💬 Ask me about **React, Next.js, TypeScript, AI implementation, and full-stack development**
 - 📫 How to reach me: **eng.salman01@outlook.com**
 - ⚡ Fun fact: **I built an AI system that detects bridge defects with 94% accuracy**
